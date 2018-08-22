@@ -1,4 +1,5 @@
 <template>
+<v-app>
 <v-container>
 <v-parallax
     dark
@@ -33,6 +34,7 @@
             </v-flex>
         </v-layout>
     </v-container> -->
+    </v-app>
 </template>
 
 <script>
